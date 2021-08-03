@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sonic-channel": "^1.2.6",
+    "uuid": "^8.3.2"
+  }
+}
